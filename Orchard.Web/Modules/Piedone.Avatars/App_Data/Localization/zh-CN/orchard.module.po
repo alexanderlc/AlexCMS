@@ -1,0 +1,150 @@
+#: ~/Modules/Piedone.Avatars/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Piedone.Avatars/Module.txt"
+msgid "Avatars"
+msgstr "头像"
+
+#: ~/Modules/Piedone.Avatars/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Piedone.Avatars/Module.txt"
+msgid "Piedone"
+msgstr "Piedone"
+
+#: ~/Modules/Piedone.Avatars/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Piedone.Avatars/Module.txt"
+msgid "http://orchardavatars.codeplex.com"
+msgstr "http://orchardavatars.codeplex.com"
+
+#: ~/Modules/Piedone.Avatars/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Piedone.Avatars/Module.txt"
+msgid "Avatar images can be added to content types and users can upload avatars"
+msgstr "头像图片能够添加到内容类型并且用户可以上传自己的头像"
+
+#: ~/Modules/Piedone.Avatars/Module.txt
+#| msgid "Piedone.Avatars.Name"
+msgctxt "~/Modules/Piedone.Avatars/Module.txt"
+msgid "Avatars"
+msgstr "头像"
+
+#: ~/Modules/Piedone.Avatars/Module.txt
+#| msgid "Piedone.Avatars.Description"
+msgctxt "~/Modules/Piedone.Avatars/Module.txt"
+msgid "Avatar images can be added to content types and users can upload avatars"
+msgstr "头像图片能够添加到内容类型并且用户可以上传自己的头像"
+
+#: ~/Modules/Piedone.Avatars/Module.txt
+#| msgid "Piedone.Avatars.Category"
+msgctxt "~/Modules/Piedone.Avatars/Module.txt"
+msgid "Social"
+msgstr "社交"
+
+#: Piedone.Avatars.Services.AvatarsService
+#| msgid "The file was too large for an avatar ({0}KB), maximum file size is {1}KB"
+msgctxt "Piedone.Avatars.Services.AvatarsService"
+msgid "The file was too large for an avatar ({0}KB), maximum file size is {1}KB"
+msgstr "该文件作为头像太大（{0} KB），最大文件大小是 {1} KB"
+
+#: Piedone.Avatars.Services.AvatarsService
+#| msgid "This file type is not allowed as an avatar."
+msgctxt "Piedone.Avatars.Services.AvatarsService"
+msgid "This file type is not allowed as an avatar."
+msgstr "此文件类型不允许作为头像。"
+
+#: ~/Modules/Piedone.Avatars/Views/User.cshtml
+#| msgid "Welcome, <strong>{0}</strong>!"
+msgctxt "~/Modules/Piedone.Avatars/Views/User.cshtml"
+msgid "Welcome, <strong>{0}</strong>!"
+msgstr "欢迎您，<strong>{0}</strong> ！"
+
+#: ~/Modules/Piedone.Avatars/Views/User.cshtml
+#| msgid "Change password"
+msgctxt "~/Modules/Piedone.Avatars/Views/User.cshtml"
+msgid "Change password"
+msgstr "修改密码"
+
+#: ~/Modules/Piedone.Avatars/Views/User.cshtml
+#| msgid "Sign Out"
+msgctxt "~/Modules/Piedone.Avatars/Views/User.cshtml"
+msgid "Sign Out"
+msgstr "注销"
+
+#: ~/Modules/Piedone.Avatars/Views/User.cshtml
+#| msgid "Dashboard"
+msgctxt "~/Modules/Piedone.Avatars/Views/User.cshtml"
+msgid "Dashboard"
+msgstr "控制面板"
+
+#: ~/Modules/Piedone.Avatars/Views/User.cshtml
+#| msgid "Sign In"
+msgctxt "~/Modules/Piedone.Avatars/Views/User.cshtml"
+msgid "Sign In"
+msgstr "登录"
+
+#: ~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarProfile.cshtml
+#| msgid "Avatar"
+msgctxt "~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarProfile.cshtml"
+msgid "Avatar"
+msgstr "头像"
+
+#: ~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarProfile.cshtml
+#| msgid "Current avatar"
+msgctxt "~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarProfile.cshtml"
+msgid "Current avatar"
+msgstr "当前头像"
+
+#: ~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarProfile.cshtml
+#| msgid "Your avatar image"
+msgctxt "~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarProfile.cshtml"
+msgid "Your avatar image"
+msgstr "您的头像"
+
+#: ~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarProfile.cshtml
+#| msgid "Upload a new avatar image"
+msgctxt "~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarProfile.cshtml"
+msgid "Upload a new avatar image"
+msgstr "上传一个新的头像图片"
+
+#: ~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarProfile.cshtml
+#| msgid "If you can't see the new avatar picture after uploading, just refresh the page in your browser."
+msgctxt "~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarProfile.cshtml"
+msgid "If you can't see the new avatar picture after uploading, just refresh the page in your browser."
+msgstr "如果您看不到上传的新头像，请刷新浏览器。"
+
+#: ~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarsSettings.SiteSettings.cshtml
+#| msgid "Avatars Settings"
+msgctxt "~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarsSettings.SiteSettings.cshtml"
+msgid "Avatars Settings"
+msgstr "头像设置"
+
+#: ~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarsSettings.SiteSettings.cshtml
+#| msgid "Allowed file types to use as avatars (list of extensions separated by spaces)"
+msgctxt "~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarsSettings.SiteSettings.cshtml"
+msgid "Allowed file types to use as avatars (list of extensions separated by spaces)"
+msgstr "允许用作头像的文件类型 （扩展名之间用空格分隔）"
+
+#: ~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarsSettings.SiteSettings.cshtml
+#| msgid "Maximal size of avatar files (in bytes)"
+msgctxt "~/Modules/Piedone.Avatars/Views/EditorTemplates/Parts.AvatarsSettings.SiteSettings.cshtml"
+msgid "Maximal size of avatar files (in bytes)"
+msgstr "头像文件最大大小（单位：字节）"
+
+#: ~/Modules/Piedone.Avatars/Views/Parts/Avatar.cshtml
+#| msgid "{0}'s avatar"
+msgctxt "~/Modules/Piedone.Avatars/Views/Parts/Avatar.cshtml"
+msgid "{0}'s avatar"
+msgstr "{0} 的头像"
+
+#: ~/Modules/Piedone.Avatars/Views/Parts/AvatarProfile.cshtml
+#| msgid "{0}'s avatar"
+msgctxt "~/Modules/Piedone.Avatars/Views/Parts/AvatarProfile.cshtml"
+msgid "{0}'s avatar"
+msgstr "{0} 的头像"
+
+#: ~/Modules/Piedone.Avatars/Views/Parts/Common.Metadata.cshtml
+#| msgid "Author:"
+msgctxt "~/Modules/Piedone.Avatars/Views/Parts/Common.Metadata.cshtml"
+msgid "Author:"
+msgstr "作者："
+

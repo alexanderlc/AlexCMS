@@ -1,0 +1,126 @@
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "Questions & Answers"
+msgstr "问题 & 答案"
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "The Orchard Hungary Team"
+msgstr "Orchard Hungary 团队"
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "http://orchardqna.codeplex.com/"
+msgstr "http://orchardqna.codeplex.com/"
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "A lightweight discussions module with discussion pools and organizing through tags."
+msgstr "一个轻量级的讨论模块，讨论池和通过标签的组织。"
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "OrchardHUN.QnA.Name"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "Questions & Answers"
+msgstr "问题 & 答案"
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "OrchardHUN.QnA.Description"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "A lightweight discussions module with discussion pools"
+msgstr "一个轻量级的讨论模块与讨论池"
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "OrchardHUN.QnA.Category"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "Community"
+msgstr "社区"
+
+#: OrchardHUN.QnA.Migrations
+#| msgid "Questions & Answers"
+msgctxt "OrchardHUN.QnA.Migrations"
+msgid "Questions & Answers"
+msgstr "问题 & 答案"
+
+#: OrchardHUN.QnA.Migrations
+#| msgid "QnA Discussion Pool"
+msgctxt "OrchardHUN.QnA.Migrations"
+msgid "QnA Discussion Pool"
+msgstr "QnA 讨论池"
+
+#: OrchardHUN.QnA.Migrations
+#| msgid "Categories"
+msgctxt "OrchardHUN.QnA.Migrations"
+msgid "Categories"
+msgstr "分类"
+
+#: OrchardHUN.QnA.Migrations
+#| msgid "QnA Discussion"
+msgctxt "OrchardHUN.QnA.Migrations"
+msgid "QnA Discussion"
+msgstr "QnA 讨论"
+
+#: .Routes
+#| msgid "NewDiscussion"
+msgctxt ".Routes"
+msgid "NewDiscussion"
+msgstr "新讨论"
+
+#: OrchardHUN.QnA.Controllers.QnADiscussionsController
+#| msgid "You haven't selected any categories."
+msgctxt "OrchardHUN.QnA.Controllers.QnADiscussionsController"
+msgid "You haven't selected any categories."
+msgstr "你还没有选择任何分类"
+
+#: OrchardHUN.QnA.Controllers.QnADiscussionsController
+#| msgid "Please log in to create a new discussion"
+msgctxt "OrchardHUN.QnA.Controllers.QnADiscussionsController"
+msgid "Please log in to create a new discussion"
+msgstr "请登录以创建一个新的讨论"
+
+#: ~/Modules/OrchardHUN.QnA/Views/NewDiscussion.cshtml
+#| msgid "Start new discussion"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/NewDiscussion.cshtml"
+msgid "Start new discussion"
+msgstr "开始新的讨论"
+
+#: ~/Modules/OrchardHUN.QnA/Views/NewDiscussion.cshtml
+#| msgid "The discussion could not be started. Please correct the errrors below."
+msgctxt "~/Modules/OrchardHUN.QnA/Views/NewDiscussion.cshtml"
+msgid "The discussion could not be started. Please correct the errrors below."
+msgstr "不能开始这个讨论，请纠正以下错误"
+
+#: ~/Modules/OrchardHUN.QnA/Views/NewDiscussionTitlePart.cshtml
+#| msgid "Title"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/NewDiscussionTitlePart.cshtml"
+msgid "Title"
+msgstr "标题"
+
+#: ~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml
+#| msgid "edit"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml"
+msgid "edit"
+msgstr "编辑"
+
+#: ~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml
+#| msgid "remove"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml"
+msgid "remove"
+msgstr "移除"
+
+#: ~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml
+#| msgid "Are you sure you want to remove this element?"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml"
+msgid "Are you sure you want to remove this element?"
+msgstr "你真的想要移除这个元素吗？"
+
+#: ~/Modules/OrchardHUN.QnA/Views/Parts/NewDiscussionLink.cshtml
+#| msgid "Start new discussion"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/Parts/NewDiscussionLink.cshtml"
+msgid "Start new discussion"
+msgstr "开始新的讨论"
+

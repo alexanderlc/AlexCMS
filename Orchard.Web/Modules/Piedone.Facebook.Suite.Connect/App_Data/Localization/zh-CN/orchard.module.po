@@ -1,0 +1,216 @@
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Module.txt"
+msgid "Facebook Suite Connect"
+msgstr "Facebook 套件连接"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Module.txt"
+msgid "Piedone"
+msgstr "Piedone"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Module.txt"
+msgid "http://facebooksuiteconnect.codeplex.com"
+msgstr "http://facebooksuiteconnect.codeplex.com"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Module.txt"
+msgid "Lets users authenticate with their Facebook account"
+msgstr "允许用户使用他们的 Facebook 帐户进行身份验证"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Module.txt
+#| msgid "Piedone.Facebook.Suite.Connect.Name"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Module.txt"
+msgid "Facebook Connect"
+msgstr "Facebook Connect"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Module.txt
+#| msgid "Piedone.Facebook.Suite.Connect.Description"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Module.txt"
+msgid "Lets users authenticate with their Facebook account"
+msgstr "允许用户使用他们的 Facebook 帐户进行身份验证"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Module.txt
+#| msgid "Piedone.Facebook.Suite.Connect.Category"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Module.txt"
+msgid "Facebook Suite"
+msgstr "Facebook 套件"
+
+#: Piedone.Facebook.Suite.Controllers.ConnectController
+#| msgid "Simple registration is not allowed on this site"
+msgctxt "Piedone.Facebook.Suite.Controllers.ConnectController"
+msgid "Simple registration is not allowed on this site"
+msgstr "本站不允许简易注册"
+
+#: Piedone.Facebook.Suite.Controllers.ConnectController
+#| msgid "The username you tried to register is taken. Please choose another one."
+msgctxt "Piedone.Facebook.Suite.Controllers.ConnectController"
+msgid "The username you tried to register is taken. Please choose another one."
+msgstr "你正在尝试注册的用户名已经被使用了，请选择另外一个"
+
+#: Piedone.Facebook.Suite.Controllers.ConnectController
+#| msgid "You haven't granted the requested permissions."
+msgctxt "Piedone.Facebook.Suite.Controllers.ConnectController"
+msgid "You haven't granted the requested permissions."
+msgstr "你没有被授予所请求的权限。"
+
+#: Piedone.Facebook.Suite.Controllers.ConnectController
+#| msgid "You're not a verified Facebook user. Only verified users are allowed to register, so please verify your account."
+msgctxt "Piedone.Facebook.Suite.Controllers.ConnectController"
+msgid "You're not a verified Facebook user. Only verified users are allowed to register, so please verify your account."
+msgstr "你不是一个已验证的 Facebook 用户。只有已验证用户允许注册。请验证您的帐户。"
+
+#: Piedone.Facebook.Suite.Drivers.FacebookConnectWidgetPartDriver
+#| msgid "Currently the Facebook app settings are not set, therefore Facebook Connect won't work properly. Please set the app settings first on the page Facebook Suite Settings under Settings."
+msgctxt "Piedone.Facebook.Suite.Drivers.FacebookConnectWidgetPartDriver"
+msgid "Currently the Facebook app settings are not set, therefore Facebook Connect won't work properly. Please set the app settings first on the page Facebook Suite Settings under Settings."
+msgstr "目前为止 Facebook 应用程序没有被设置，因此 Facebook 连接不能正常工作。请首先在 Facebook 套件设置页上配置应用程序设置。"
+
+#: Piedone.Facebook.Suite.Services.FacebookConnectService
+#| msgid "Error in retrieving Facebook user data: {0}"
+msgctxt "Piedone.Facebook.Suite.Services.FacebookConnectService"
+msgid "Error in retrieving Facebook user data: {0}"
+msgstr "检索 Facebook 用户数据时出错: {0}"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectAuthenticated.cshtml
+#| msgid "{0}'s profile picture"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectAuthenticated.cshtml"
+msgid "{0}'s profile picture"
+msgstr "{0} 的个人资料图片"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectAuthenticated.cshtml
+#| msgid "Logout from Facebook"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectAuthenticated.cshtml"
+msgid "Logout from Facebook"
+msgstr "从 Facebook 登出"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectAuthenticatedNotConnected.cshtml
+#| msgid "Attach your Facebook account to your username for simple login"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectAuthenticatedNotConnected.cshtml"
+msgid "Attach your Facebook account to your username for simple login"
+msgstr "关联 Facebook 到你的账户以使用简单登录"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectNotAuthenticated.cshtml
+#| msgid "Connect with Facebook"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectNotAuthenticated.cshtml"
+msgid "Connect with Facebook"
+msgstr "连接 Facebook"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml
+#| msgid "Simple registration"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml"
+msgid "Simple registration"
+msgstr "简易注册"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml
+#| msgid "You only have to choose a username, but later you can only login with your Facebook account."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml"
+msgid "You only have to choose a username, but later you can only login with your Facebook account."
+msgstr "你只需要选择一个用户名，但是以后你将只能使用你的 Facebook 帐户登录。"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml
+#| msgid "Full registration"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml"
+msgid "Full registration"
+msgstr "完整注册"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml
+#| msgid "You'll have to fill out the complete (actually quite short) registration form to register, but you'll be able to log in with your Facebook account. Choose this if you plan to log in later with username/password instead of your Facebook account."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml"
+msgid "You'll have to fill out the complete (actually quite short) registration form to register, but you'll be able to log in with your Facebook account. Choose this if you plan to log in later with username/password instead of your Facebook account."
+msgstr "要注册，你将必须填写完整的（其实很短）的注册表，但是你将能够使用你的 Facebook 帐户登录。如果你计划以后使用用户名/密码而不是你的 Facebook 帐户登录，选择此选项。"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectSimpleRegistration.cshtml
+#| msgid "Username:"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectSimpleRegistration.cshtml"
+msgid "Username:"
+msgstr "用户名："
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectSimpleRegistration.cshtml
+#| msgid "Choose a unique username for your account you can login to with your Facebook credentials."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectSimpleRegistration.cshtml"
+msgid "Choose a unique username for your account you can login to with your Facebook credentials."
+msgstr "为你可以使用 Facebook 凭据登录的账户选择一个唯一的用户名"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectSimpleRegistration.cshtml
+#| msgid "Register with your Facebook account"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectSimpleRegistration.cshtml"
+msgid "Register with your Facebook account"
+msgstr "用你的 Facebook 账户注册"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "Facebook Connect Settings"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "Facebook Connect Settings"
+msgstr "Facebook 连接设置"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "For the best experience, place this widget in a layer that both authenticated and anonymous users can see."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "For the best experience, place this widget in a layer that both authenticated and anonymous users can see."
+msgstr "将这个部件放在一个经过身份验证和匿名用户都能够看到的层以获得更好的体验"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "WARNING: new users will only be able to connect if registration is enabled. Otherwise only existing users will be able to login."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "WARNING: new users will only be able to connect if registration is enabled. Otherwise only existing users will be able to login."
+msgstr "警告：只有当允许注册时，新用户才能连接，否则只有已存在的用户能够登录。"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "Permissions"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "Permissions"
+msgstr "权限"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "If extended permissions are needed, enter a list of permission, separated by commas."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "If extended permissions are needed, enter a list of permission, separated by commas."
+msgstr "如果需要扩展的权限，则输入权限列表，由逗号分隔。"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "Automatically log in authenticated and connected users"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "Automatically log in authenticated and connected users"
+msgstr "自动登录经过身份验证和连接的用户"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "If checked, users who have connected to the site and are logged in at Facebook will be automatically logged in on the site, without clicking the login button. NOTE: this will practically prevent users from logging out of Orchard till they're logged in at Facebook."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "If checked, users who have connected to the site and are logged in at Facebook will be automatically logged in on the site, without clicking the login button. NOTE: this will practically prevent users from logging out of Orchard till they're logged in at Facebook."
+msgstr "选中时，使用 Facebook 连接到网站的用户将会被自动登录到网站，无需点击登录按钮。注：在用户仍登录到 Facebook 时，这将让用户不能登出 Orchard。"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "Only allow verified users"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "Only allow verified users"
+msgstr "仅允许经过验证的用户"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "If checked, only verified Facebook users will get authenticated."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "If checked, only verified Facebook users will get authenticated."
+msgstr "选中时，只有经过验证的 Facebook 用户能够得到身份验证。"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "Simple registration"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "Simple registration"
+msgstr "简易注册"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "If checked, new users will only be prompted for a user name when registering. This means that they won't be able to login with the built-in authentication form (only with their Facebook-account) and won't have an e-mail saved."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "If checked, new users will only be prompted for a user name when registering. This means that they won't be able to login with the built-in authentication form (only with their Facebook-account) and won't have an e-mail saved."
+msgstr "选中时，用户将只被要求一个用户名。这表示他们将只能通过他们的 Facebook 账户，而不能使用内置身份验证表登录，并且将不会保存他们的电子邮件地址。"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/Parts/FacebookUser.cshtml
+#| msgid "Facebook profile"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/Parts/FacebookUser.cshtml"
+msgid "Facebook profile"
+msgstr "Facebook 个人资料"
+

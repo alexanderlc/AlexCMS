@@ -1,0 +1,607 @@
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.UserStorage.Name"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Vandelay User Storage"
+msgstr "Vandelay 用户存储"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.UserStorage.Description"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Provides a user-specific key value data store."
+msgstr "提供用户指定的键值数据存储区。"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.UserStorage.Category"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Developer"
+msgstr "开发者"
+
+#: Vandelay.Industries.Controllers.UserStorageController
+#| msgid "Not allowed to manage user storage"
+msgctxt "Vandelay.Industries.Controllers.UserStorageController"
+msgid "Not allowed to manage user storage"
+msgstr "不允许管理用户存储"
+
+#: Vandelay.Industries.Menus.UserStorageAdminMenu
+#| msgid "Users"
+msgctxt "Vandelay.Industries.Menus.UserStorageAdminMenu"
+msgid "Users"
+msgstr "用户"
+
+#: Vandelay.Industries.Menus.UserStorageAdminMenu
+#| msgid "Storage"
+msgctxt "Vandelay.Industries.Menus.UserStorageAdminMenu"
+msgid "Storage"
+msgstr "存储"
+
+#: Vandelay.Industries.Test.ExtractLocalizedStringsTest
+#| msgid ""
+msgctxt "Vandelay.Industries.Test.ExtractLocalizedStringsTest"
+msgid ""
+msgstr ""
+""
+
+#: Vandelay.Industries.Test.ExtractLocalizedStringsTest
+#| msgid ", true)"
+msgctxt "Vandelay.Industries.Test.ExtractLocalizedStringsTest"
+msgid ", true)"
+msgstr ", 真）"
+
+#: Vandelay.Industries.Test.ExtractLocalizedStringsTest
+#| msgid ", "
+msgctxt "Vandelay.Industries.Test.ExtractLocalizedStringsTest"
+msgid ", "
+msgstr "，"
+
+#: ~/Modules/Vandelay.Industries/Views/UserStorage/Index.cshtml
+#| msgid "Manage user storage"
+msgctxt "~/Modules/Vandelay.Industries/Views/UserStorage/Index.cshtml"
+msgid "Manage user storage"
+msgstr "管理用户存储"
+
+#: ~/Modules/Vandelay.Industries/Views/UserStorage/Index.cshtml
+#| msgid "User name"
+msgctxt "~/Modules/Vandelay.Industries/Views/UserStorage/Index.cshtml"
+msgid "User name"
+msgstr "用户名"
+
+#: ~/Modules/Vandelay.Industries/Views/UserStorage/Index.cshtml
+#| msgid "Folder"
+msgctxt "~/Modules/Vandelay.Industries/Views/UserStorage/Index.cshtml"
+msgid "Folder"
+msgstr "文件夹"
+
+#: ~/Modules/Vandelay.Industries/Views/UserStorage/Index.cshtml
+#| msgid "File name"
+msgctxt "~/Modules/Vandelay.Industries/Views/UserStorage/Index.cshtml"
+msgid "File name"
+msgstr "文件名"
+
+#: ~/Modules/Vandelay.Industries/Views/UserStorage/Index.cshtml
+#| msgid "Contents"
+msgctxt "~/Modules/Vandelay.Industries/Views/UserStorage/Index.cshtml"
+msgid "Contents"
+msgstr "内容"
+
+#: ~/Modules/Vandelay.Industries/Views/UserStorage/Index.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Vandelay.Industries/Views/UserStorage/Index.cshtml"
+msgid "Save"
+msgstr "保存"
+
+#: ~/Modules/Vandelay.Industries/Views/UserStorage/Index.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Vandelay.Industries/Views/UserStorage/Index.cshtml"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Vandelay Industries"
+msgstr "Vandelay Industries"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Bertrand Le Roy"
+msgstr "Bertrand Le Roy"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "http://weblogs.asp.net/bleroy"
+msgstr "http://weblogs.asp.net/bleroy"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "A collection of useful Orchard modules"
+msgstr "有用的 Orchard 模块集合。"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.Classy.Name"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Vandelay Classy"
+msgstr "Vandelay Classy"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.Classy.Description"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Add ids, classes and scripts to the rendering of your content items through this part that can be added to any content type."
+msgstr "添加 ID、类和脚本到你的内容项目的渲染过程，这个部分可以被添加到任何内容类型。"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.Classy.Category"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Designer"
+msgstr "设计者"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.Fail.Name"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Vandelay Fail"
+msgstr "Vandelay Fail"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.Fail.Description"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Simulates an exception on the /fail route. Useful to test your error pages. It also exposes a /notfound route that can be used to have themed and multi-tenant-aware custom not found pages, by pointing custom errors in web.config to it."
+msgstr "在 /fail 路由中模拟一个异常，用于测试你的错误页。它也暴露了一个 /notfound 路由可应用主题和多租户的自定义未找到页面，只需在 web.config 中指向它。"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.Fail.Category"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Debug"
+msgstr "调试"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.Favicon.Name"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Vandelay Favicon"
+msgstr "Vandelay Favicon"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.Favicon.Description"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Adds a favicon setting to site settings"
+msgstr "添加收藏夹图标设置"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.Favicon.Category"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Content"
+msgstr "内容"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.Feedburner.Name"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Vandelay Feedburner"
+msgstr "Vandelay Feedburner"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.Feedburner.Description"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Enables Feedburner RSS feeds"
+msgstr "开启 Feedburner RSS 源"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.Feedburner.Category"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Syndication"
+msgstr "联合组织"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.RelativeUrlFilter.Name"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Vandelay Relative URL Filter"
+msgstr "Vandelay Relative URL Filter"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.RelativeUrlFilter.Description"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Transforms image source and link hrefs into absolute URLs, for example to avoid broken images in Feedburner."
+msgstr "将图片源和链接转换成绝对URL，例如可以避免订阅器中的无效图片。"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.RelativeUrlFilter.Category"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Content"
+msgstr "内容"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.RemoteRss.Name"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Vandelay Remote RSS"
+msgstr "Vandelay Remote RSS"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.RemoteRss.Description"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Include remote RSS feeds into your Orchard sites"
+msgstr "将远程 RSS 源包含到你的 Orchard 网站"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.RemoteRss.Category"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Syndication"
+msgstr "联合组织"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.TagCloud.Name"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Vandelay Tag Cloud"
+msgstr "Vandelay Tag Cloud"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.TagCloud.Description"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "A simple tag cloud widget and result pages for your Orchard sites."
+msgstr "为您的 Orchard 网站添加简单的标签云部件及结果页面"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.TagCloud.Category"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Navigation"
+msgstr "导航"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.TagRss.Name"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Vandelay Tag RSS"
+msgstr "Vandelay Tag RSS"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.TagRss.Description"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Adds RSS feeds to tags."
+msgstr "为标签添加 RSS 源"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.TagRss.Category"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Syndication"
+msgstr "联合组织"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.ThemePicker.Name"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Vandelay Theme Picker"
+msgstr "Vandelay Theme Picker"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.ThemePicker.Description"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Pick a different theme based on the user agent."
+msgstr "根据用户代理选择不同的主题。"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.ThemePicker.Category"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Design"
+msgstr "设计"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.TranslationManager.Name"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Vandelay Translation Manager"
+msgstr "Vandelay Translation Manager"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.TranslationManager.Description"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Translation management tools"
+msgstr "翻译管理工具"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.TranslationManager.Category"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Localization"
+msgstr "本地化"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.ContentAdminMenu.Name"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Vandelay Content Admin Menu"
+msgstr "Vandelay Content Admin Menu"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.ContentAdminMenu.Description"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Adds an admin menu entry per content type under the \"Content\" header."
+msgstr "为每种内容类型下的\"内容\"标题添加一个管理员菜单条目。"
+
+#: ~/Modules/Vandelay.Industries/Module.txt
+#| msgid "Vandelay.ContentAdminMenu.Category"
+msgctxt "~/Modules/Vandelay.Industries/Module.txt"
+msgid "Content"
+msgstr "内容"
+
+#: Vandelay.Industries.Controllers.AdminController
+#| msgid "Cannot manage themes"
+msgctxt "Vandelay.Industries.Controllers.AdminController"
+msgid "Cannot manage themes"
+msgstr "不能管理主题"
+
+#: Vandelay.Industries.Drivers.CustomCssDriver
+#| msgid "Error during CustomCss update."
+msgctxt "Vandelay.Industries.Drivers.CustomCssDriver"
+msgid "Error during CustomCss update."
+msgstr "CustomCss 更新期间出现错误。"
+
+#: Vandelay.Industries.Handlers.FaviconSettingsPartHandler
+#| msgid "Favicon"
+msgctxt "Vandelay.Industries.Handlers.FaviconSettingsPartHandler"
+msgid "Favicon"
+msgstr "网站图标"
+
+#: Vandelay.Industries.Menus.ContentAdminMenu
+#| msgid "Content"
+msgctxt "Vandelay.Industries.Menus.ContentAdminMenu"
+msgid "Content"
+msgstr "内容"
+
+#: Vandelay.Industries.Menus.ThemePickerAdminMenu
+#| msgid "Themes"
+msgctxt "Vandelay.Industries.Menus.ThemePickerAdminMenu"
+msgid "Themes"
+msgstr "主题"
+
+#: Vandelay.Industries.Menus.ThemePickerAdminMenu
+#| msgid "Picker"
+msgctxt "Vandelay.Industries.Menus.ThemePickerAdminMenu"
+msgid "Picker"
+msgstr "选取器"
+
+#: Vandelay.Industries.Services.LocalizationManagementService
+#| msgid ", bool fetchTwoStrings = false) "
+msgctxt "Vandelay.Industries.Services.LocalizationManagementService"
+msgid ", bool fetchTwoStrings = false) "
+msgstr ", bool fetchTwoStrings = false) "
+
+#: Vandelay.Industries.Services.LocalizationManagementService
+#| msgid ", true)) "
+msgctxt "Vandelay.Industries.Services.LocalizationManagementService"
+msgid ", true)) "
+msgstr ", true)) "
+
+#: Vandelay.Industries.Services.LocalizationManagementService
+#| msgid "')"
+msgctxt "Vandelay.Industries.Services.LocalizationManagementService"
+msgid "')"
+msgstr "')"
+
+#: ~/Modules/Vandelay.Industries/Views/ErrorPage.cshtml
+#| msgid "Server Error"
+msgctxt "~/Modules/Vandelay.Industries/Views/ErrorPage.cshtml"
+msgid "Server Error"
+msgstr "服务器错误"
+
+#: ~/Modules/Vandelay.Industries/Views/NotFound.cshtml
+#| msgid "The resource was not found"
+msgctxt "~/Modules/Vandelay.Industries/Views/NotFound.cshtml"
+msgid "The resource was not found"
+msgstr "资源没有找到"
+
+#: ~/Modules/Vandelay.Industries/Views/Vandelay.ThemePicker.LinkToDefault.cshtml
+#| msgid "Click here to switch to the default theme."
+msgctxt "~/Modules/Vandelay.Industries/Views/Vandelay.ThemePicker.LinkToDefault.cshtml"
+msgid "Click here to switch to the default theme."
+msgstr "若要切换到默认主题，请单击此处。"
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "Pick Themes for User Agents"
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "Pick Themes for User Agents"
+msgstr "为用户代理字符串选择主题"
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "Remove"
+msgstr "移除"
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "Add new theme selection criterion"
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "Add new theme selection criterion"
+msgstr "添加新主题甄选准则"
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "Name:"
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "Name:"
+msgstr "名称："
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "A name for the criterion (e.g. IE6 or Mobile)."
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "A name for the criterion (e.g. IE6 or Mobile)."
+msgstr "选择条件名称(例如 IE6 或 mobile)"
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "Rule:"
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "Rule:"
+msgstr "规则："
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "The rule that will be used to evaluate the criterion."
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "The rule that will be used to evaluate the criterion."
+msgstr "将用于评估标准的规则。"
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "Criterion:"
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "Criterion:"
+msgstr "条件："
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "The criterion to evaluate (e.g. ""^Mozilla\/4\.0 \(compatible; MSIE 6\.0; Windows NT \d\.\d(.*)\)$"" or ""phone"")."
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "The criterion to evaluate (e.g. \"\"^Mozilla\\/4\\.0 \\(compatible; MSIE 6\\.0; Windows NT \\d\\.\\d(.*)\\)$\"\" or \"\"phone\"\")."
+msgstr "The criterion to evaluate (e.g. \"\"^Mozilla\\/4\\.0 \\(compatible; MSIE 6\\.0; Windows NT \\d\\.\\d(.*)\\)$\"\" or \"\"phone\"\")."
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "Theme:"
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "Theme:"
+msgstr "主题："
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "The theme that must be selected if the criterion matches according to the rule. Only enabled themes appear here. Please enable more than one theme in order to be able to use this feature."
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "The theme that must be selected if the criterion matches according to the rule. Only enabled themes appear here. Please enable more than one theme in order to be able to use this feature."
+msgstr "如果标准与规则相匹配，必须选择主题。只有启用的主题出现在这里。为了能使用此功能，请启用多个主题。"
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "Priority:"
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "Priority:"
+msgstr "优先级："
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "Setting the priority for this rule enables other theme providers to cohabitate with this one. You can leave the default value of 10 in other cases."
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "Setting the priority for this rule enables other theme providers to cohabitate with this one. You can leave the default value of 10 in other cases."
+msgstr "设置此规则的优先级将能够让其它主题提供者与这个共同存在。在其他情况下，你可以保留默认值 10。"
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "Zone:"
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "Zone:"
+msgstr "区域："
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "Position:"
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "Position:"
+msgstr "位置："
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "Optionally specify a zone name and a position within that zone for a link that enables the user to switch back to the default theme. This link is rendered by the Vandelay_ThemePicker_LinkToDefault shape, using the Vandelay.ThemePicker.LinkToDefault.cshtml template of the theme."
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "Optionally specify a zone name and a position within that zone for a link that enables the user to switch back to the default theme. This link is rendered by the Vandelay_ThemePicker_LinkToDefault shape, using the Vandelay.ThemePicker.LinkToDefault.cshtml template of the theme."
+msgstr "（可选）指定在该区域内的一个区域名称和一个位置，使用户可以切换回默认主题。此链接由 Vandelay_ThemePicker_LinkToDefault 的形状呈现，使用主题的 Vandelay.ThemePicker.LinkToDefault.cshtml 模板。"
+
+#: ~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml
+#| msgid "Add"
+msgctxt "~/Modules/Vandelay.Industries/Views/Admin/Index.cshtml"
+msgid "Add"
+msgstr "添加"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/CustomCss.cshtml
+#| msgid "Custom id"
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/CustomCss.cshtml"
+msgid "Custom id"
+msgstr "自定义的 id"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/CustomCss.cshtml
+#| msgid "You may specify here the id of the outer tag for this content item."
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/CustomCss.cshtml"
+msgid "You may specify here the id of the outer tag for this content item."
+msgstr "你可以在这里指定这个内容项目的外部标签的 ID。"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/CustomCss.cshtml
+#| msgid "Css Class"
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/CustomCss.cshtml"
+msgid "Css Class"
+msgstr "CSS 类"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/CustomCss.cshtml
+#| msgid "You may specify here a list of CSS classes separated by spaces that will be added to the outer tag for this content item."
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/CustomCss.cshtml"
+msgid "You may specify here a list of CSS classes separated by spaces that will be added to the outer tag for this content item."
+msgstr "你可以在这里指定一列将被添加到这个内容项目的外部标签的、用空格分隔的 CSS 类。"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/CustomCss.cshtml
+#| msgid "Script URLs"
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/CustomCss.cshtml"
+msgid "Script URLs"
+msgstr "脚本 URL"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/CustomCss.cshtml
+#| msgid "You may specify here a list of scripts to include when this content item is displayed. Each script will be included only once even if more than one item requires it. Enter one script per line. A script can be the name of a registered script such as \"jQuery\" or the URL of any script, such as \"~/Themes/MyTheme/scripts/foo.js\"."
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/CustomCss.cshtml"
+msgid "You may specify here a list of scripts to include when this content item is displayed. Each script will be included only once even if more than one item requires it. Enter one script per line. A script can be the name of a registered script such as \"jQuery\" or the URL of any script, such as \"~/Themes/MyTheme/scripts/foo.js\"."
+msgstr "你可以在此指定一列脚本来在这个内容项目显示时包含。就算有多于一个的项目要求它，每个脚本也将只被包含一次。每行输入一个脚本。一个脚本可为像“jQuery”这样已注册脚本的名称，或者任何脚本的 URL，例如“~/Themes/MyTheme/scripts/foo.js”。"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/Favicon.FaviconSettings.cshtml
+#| msgid "Favicon"
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/Favicon.FaviconSettings.cshtml"
+msgid "Favicon"
+msgstr "网站图标"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/Favicon.FaviconSettings.cshtml
+#| msgid "Favicon URL"
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/Favicon.FaviconSettings.cshtml"
+msgid "Favicon URL"
+msgstr "图标 URL"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/Favicon.FaviconSettings.cshtml
+#| msgid "Upload favicon files into a favicon folder in the Media module."
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/Favicon.FaviconSettings.cshtml"
+msgid "Upload favicon files into a favicon folder in the Media module."
+msgstr "将图标文件上载到媒体模块中的一个小图标文件夹。"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/Feedburner.cshtml
+#| msgid "Get a feedburner feed from <a href=\"http://feedburner.google.com\">http://feedburner.google.com</a>. You will need the URL of your current feed, that you can find by viewing the source of the front-end view of this content item in your browser. You should be looking for a tag looking like this:  &lt;link rel=\"alternate\" type=\"application/rss+xml title=\"my content item\" href=\"/rss?containerid=13\" /&gt;. The URL you want to give on the Feedburner site is the value of the href attribute. This href value is unfortunately relative so we need to add the absolute URL of the site in front of it (e.g. \"http://contoso.com/rss?containerid=13\"). Once you have set-up your Feedburner feed with that absolute URL, you will be provided a feedburner URL for your feed, which is what you want to paste into the text field above."
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/Feedburner.cshtml"
+msgid "Get a feedburner feed from <a href=\"http://feedburner.google.com\">http://feedburner.google.com</a>. You will need the URL of your current feed, that you can find by viewing the source of the front-end view of this content item in your browser. You should be looking for a tag looking like this:  &lt;link rel=\"alternate\" type=\"application/rss+xml title=\"my content item\" href=\"/rss?containerid=13\" /&gt;. The URL you want to give on the Feedburner site is the value of the href attribute. This href value is unfortunately relative so we need to add the absolute URL of the site in front of it (e.g. \"http://contoso.com/rss?containerid=13\"). Once you have set-up your Feedburner feed with that absolute URL, you will be provided a feedburner URL for your feed, which is what you want to paste into the text field above."
+msgstr "从<a href=\"http://feedburner.google.com\"> http://feedburner.google.com </a>获取一个 feedburner 源 。你将需要你当前源的 URL，你可以通过在你的浏览器中查看前端视图源码来找到它。你应该找找看起来像这样的一个标签：&lt;link rel=\"alternate\" type=\"application/rss+xml title=\"my content item\" href=\"/rss?containerid=13\" /&gt;。你要提供给 Feedburner 网站的 URL 是 href 属性的值。不幸的是，此 href 值是相对的所以我们需要在它的前面添加站点的绝对 URL（例如“http://contoso.com/rss?containerid=13”）。一旦你将 Feedburner 源与那个绝对 URL 设置了，你将需要提供一个 feedburner 的你的源的 URL，这是你要粘贴到上面的文本字段。"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/RemoteRss.cshtml
+#| msgid "Remote RSS Url"
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/RemoteRss.cshtml"
+msgid "Remote RSS Url"
+msgstr "远程 RSS URL"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/RemoteRss.cshtml
+#| msgid "The URL of a remote RSS or Atom feed. You may need to override Views/Parts/RemoteRss.cshtml, depending on the form of the particular feed you are displaying."
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/RemoteRss.cshtml"
+msgid "The URL of a remote RSS or Atom feed. You may need to override Views/Parts/RemoteRss.cshtml, depending on the form of the particular feed you are displaying."
+msgstr "远程 RSS 或者 Atom 源的 URL。取决于你要显示的源的格式，你可能需要覆写 Views/Parts/RemoteRss.cshtml。"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/RemoteRss.cshtml
+#| msgid "Number of Items"
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/RemoteRss.cshtml"
+msgid "Number of Items"
+msgstr "项目数"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/RemoteRss.cshtml
+#| msgid "The number of feed items to display. If this is set to more than what the feed returns, then less than that number will be displayed."
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/RemoteRss.cshtml"
+msgid "The number of feed items to display. If this is set to more than what the feed returns, then less than that number will be displayed."
+msgstr "来源要显示的项目数。如果此数量比来源返回的条目要多将只显示来源实际数量。"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/RemoteRss.cshtml
+#| msgid "Cache Duration"
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/RemoteRss.cshtml"
+msgid "Cache Duration"
+msgstr "缓存持续时间"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/RemoteRss.cshtml
+#| msgid "The number of minutes the site waits before attempting to refresh the feed from live data."
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/RemoteRss.cshtml"
+msgid "The number of minutes the site waits before attempting to refresh the feed from live data."
+msgstr "尝试从实时数据刷新来源前等待的分钟数。"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/TagCloud.cshtml
+#| msgid "Enter the slug of the container for which you want the tag cloud (leave empty for the cloud to be scoped to the whole site). "
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/TagCloud.cshtml"
+msgid "Enter the slug of the container for which you want the tag cloud (leave empty for the cloud to be scoped to the whole site). "
+msgstr "输入你想要标签云的容器 Slug（留空以让标签云作用于整个站点）"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/TagCloud.cshtml
+#| msgid "The number of buckets determines how many different sizes of tags will get rendered in the cloud."
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/TagCloud.cshtml"
+msgid "The number of buckets determines how many different sizes of tags will get rendered in the cloud."
+msgstr "桶(bucket)的数量决定了有多少不同尺寸的标签将在标签云中得到呈现。"
+
+#: ~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/TagCloud.cshtml
+#| msgid "The tag cloud will be rendered as an unordered list with different CSS classes for each size of tag. In order to properly render, the cloud requires CSS similar to the followinf in the theme's stylesheet:<br/>ul.tagCloud { list-style: none; }<br/>li.tagCloud-tag { display: inline; }<br/>.tagCloud-1 { font-size: 1em; }<br/>.tagCloud-2 { font-size: 1.1em; }<br/>.tagCloud-3 { font-size: 1.2em; }<br/>.tagCloud-4 { font-size: 1.3em; }<br/>.tagCloud-5 { font-size: 1.4em; }"
+msgctxt "~/Modules/Vandelay.Industries/Views/EditorTemplates/Parts/TagCloud.cshtml"
+msgid "The tag cloud will be rendered as an unordered list with different CSS classes for each size of tag. In order to properly render, the cloud requires CSS similar to the followinf in the theme's stylesheet:<br/>ul.tagCloud { list-style: none; }<br/>li.tagCloud-tag { display: inline; }<br/>.tagCloud-1 { font-size: 1em; }<br/>.tagCloud-2 { font-size: 1.1em; }<br/>.tagCloud-3 { font-size: 1.2em; }<br/>.tagCloud-4 { font-size: 1.3em; }<br/>.tagCloud-5 { font-size: 1.4em; }"
+msgstr "标签云将会以打乱顺序的列表的方式呈现，每个标签的大小都会有不同的 CSS 类。为了正确的呈现，标签云要求在主题的样式表里有和一下 CSS 相似的内容：<br/>ul.tagCloud { list-style: none; }<br/>li.tagCloud-tag { display: inline; }<br/>.tagCloud-1 { font-size: 1em; }<br/>.tagCloud-2 { font-size: 1.1em; }<br/>.tagCloud-3 { font-size: 1.2em; }<br/>.tagCloud-4 { font-size: 1.3em; }<br/>.tagCloud-5 { font-size: 1.4em; }"
+

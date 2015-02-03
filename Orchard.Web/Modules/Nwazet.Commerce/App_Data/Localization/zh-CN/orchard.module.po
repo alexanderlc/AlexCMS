@@ -1,0 +1,510 @@
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Nwazet Commerce"
+msgstr "Nwazet 商务平台"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Bertrand Le Roy, Sipke Schoorstra"
+msgstr "Bertrand Le Roy, Sipke Schoorstra"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "http://nwazet.com"
+msgstr "http://nwazet.com"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce for small online businesses"
+msgstr "针对小型在线企业的商务平台"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Commerce.Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Nwazet Commerce"
+msgstr "Nwazet 商务平台"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Commerce.Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce for small online businesses"
+msgstr "针对小型在线企业的商务平台"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Commerce.Category"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce"
+msgstr "商务平台"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Shipping.Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Nwazet Shipping"
+msgstr "Nwazet 物流"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Shipping.Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Define shipping options to work with Nwazet Commerce"
+msgstr "定义用于 Nwazet 商务平台的物流选项"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Shipping.Category"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce"
+msgstr "商务平台"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Google.Checkout.Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Google Checkout"
+msgstr "Google Checkout"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Google.Checkout.Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Google Checkout part that can be added to any content type"
+msgstr "Google Checkout 部分可以添加到任何内容类型"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Google.Checkout.Category"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce"
+msgstr "商务平台"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Referrals.Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Nwazet Referrals"
+msgstr "Nwazet 推荐"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Referrals.Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Keeps track of the domain the user came from, in order to honor partner referral fees."
+msgstr "跟踪用户来自的域名以证实合作伙伴推荐费"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Referrals.Category"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce"
+msgstr "商务平台"
+
+#: Nwazet.Commerce.Handlers.GoogleCheckoutSettingsPartHandler
+#| msgid "Google Checkout"
+msgctxt "Nwazet.Commerce.Handlers.GoogleCheckoutSettingsPartHandler"
+msgid "Google Checkout"
+msgstr "Google Checkout"
+
+#: Nwazet.Commerce.Menus.ProductAdminMenu
+#| msgid "Commerce"
+msgctxt "Nwazet.Commerce.Menus.ProductAdminMenu"
+msgid "Commerce"
+msgstr "商务平台"
+
+#: Nwazet.Commerce.Menus.ProductAdminMenu
+#| msgid "Products"
+msgctxt "Nwazet.Commerce.Menus.ProductAdminMenu"
+msgid "Products"
+msgstr "产品"
+
+#: Nwazet.Commerce.Menus.ShippingAdminMenu
+#| msgid "Commerce"
+msgctxt "Nwazet.Commerce.Menus.ShippingAdminMenu"
+msgid "Commerce"
+msgstr "商务平台"
+
+#: Nwazet.Commerce.Menus.ShippingAdminMenu
+#| msgid "Shipping Methods"
+msgctxt "Nwazet.Commerce.Menus.ShippingAdminMenu"
+msgid "Shipping Methods"
+msgstr "运送方法"
+
+#: Nwazet.Commerce.Services.WeightBasedShippingMethodProvider
+#| msgid "Weight-Based Shipping Method"
+msgctxt "Nwazet.Commerce.Services.WeightBasedShippingMethodProvider"
+msgid "Weight-Based Shipping Method"
+msgstr "基于重量的运送方法"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Content Items"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Content Items"
+msgstr "内容项目"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Sku"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Sku"
+msgstr "Sku"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "The SKU for the product."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "The SKU for the product."
+msgstr "产品的 SKU。"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Price"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Price"
+msgstr "价格"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "The price of the product."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "The price of the product."
+msgstr "产品的价格。"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Is Digital"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Is Digital"
+msgstr "是否是数字产品"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "True if this is a digital product."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "True if this is a digital product."
+msgstr "如果是数字产品将为真。"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Shipping Cost"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Shipping Cost"
+msgstr "物流成本"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "The fixed shipping cost of the product."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "The fixed shipping cost of the product."
+msgstr "产品固定的物流成本。"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Weight"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Weight"
+msgstr "重量"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "The weight of the item."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "The weight of the item."
+msgstr "物品的重量。"
+
+#: ~/Modules/Nwazet.Commerce/Views/GoogleCheckout.cshtml
+#| msgid "Fast checkout through Google"
+msgctxt "~/Modules/Nwazet.Commerce/Views/GoogleCheckout.cshtml"
+msgid "Fast checkout through Google"
+msgstr "通过谷歌快速结帐"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "You don't have any items in your shopping cart."
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "You don't have any items in your shopping cart."
+msgstr "在你的购物车中没有任何物品。"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Article"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Article"
+msgstr "文章"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Unit Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Unit Price"
+msgstr "单价"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Quantity"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Quantity"
+msgstr "数量"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Total Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Total Price"
+msgstr "总价"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Remove"
+msgstr "移除"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Subtotal:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Subtotal:"
+msgstr "小计："
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Update All"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Update All"
+msgstr "全部更新"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Your Cart"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Your Cart"
+msgstr "你的购物车"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Remove"
+msgstr "移除"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Update All"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Update All"
+msgstr "全部更新"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Subtotal:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Subtotal:"
+msgstr "小计："
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Tax and shipping will be calculated at checkout."
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Tax and shipping will be calculated at checkout."
+msgstr "税额和运费将在结帐时计算。"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Google Checkout Merchant Id"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Google Checkout Merchant Id"
+msgstr "Google Check 商户 ID"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Google Analytics Id"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Google Analytics Id"
+msgstr "Google Analytics ID"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Currency"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Currency"
+msgstr "货币"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Shipping Weight Unit"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Shipping Weight Unit"
+msgstr "物流重量单位"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Use Sandbox"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Use Sandbox"
+msgstr "使用沙盒"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Sku"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Sku"
+msgstr "Sku"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Price"
+msgstr "价格"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Weight"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Weight"
+msgstr "重量"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Shipping Cost"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Shipping Cost"
+msgstr "物流成本"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Specify a shipping cost if you want the shipping cost to be fixed. Otherwise, leave this empty and only specify the weight. The shipping will be computed based on the shipping provider that the customer will pick."
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Specify a shipping cost if you want the shipping cost to be fixed. Otherwise, leave this empty and only specify the weight. The shipping will be computed based on the shipping provider that the customer will pick."
+msgstr "如果你希望有一个固定的运费，你可以指定一个运费；否则，保留此处为空，并且只指定重量。运费将会基于用户选择的物流提供商计算。"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "digital product"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "digital product"
+msgstr "数码产品"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Method Name"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Method Name"
+msgstr "方法名称"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "The technical name of the shipping method (this is different from the title, which is the method's friendly name that will be displayed to end-users)."
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "The technical name of the shipping method (this is different from the title, which is the method's friendly name that will be displayed to end-users)."
+msgstr "运送方式的技术名称 （这和标题不同，也是该方法的友好名称，将显示给最终用户）"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Shipping Company"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Shipping Company"
+msgstr "物流提供商"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Price"
+msgstr "价格"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Minimum Weight"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Minimum Weight"
+msgstr "最小重量"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Maximum Weight"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Maximum Weight"
+msgstr "最大重量"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Specify the weight interval for which this shipping price is valid. Leave the maximum weight field empty for unlimited weight. The weight will be computed for all non-digital products that don't have a shipping price overload specified."
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Specify the weight interval for which this shipping price is valid. Leave the maximum weight field empty for unlimited weight. The weight will be computed for all non-digital products that don't have a shipping price overload specified."
+msgstr "指定这个价格有效的最大重量，保留最大重量字段为空以指定无限制重量。这个重量将会为了没有指定超运费的非数码产品而计算。"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Areas for which this method is valid:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Areas for which this method is valid:"
+msgstr "这个方法的有效区域："
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Areas for which this method is not valid:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Areas for which this method is not valid:"
+msgstr "这个方法的无效区域："
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Use this to restrict what areas this method is available from. For example, an international shipping method would have World included, but US excluded, so that it can't be selected for domestic shipping."
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Use this to restrict what areas this method is available from. For example, an international shipping method would have World included, but US excluded, so that it can't be selected for domestic shipping."
+msgstr "使用这个来限制这个方法将在哪些区域可用，例如全球物流方法将要包含世界，但是不包含中国，以让它不能被国内物流选中。"
+
+#: ~/Modules/Nwazet.Commerce/Views/Parts/Product.AddButton.cshtml
+#| msgid "Add to cart"
+msgctxt "~/Modules/Nwazet.Commerce/Views/Parts/Product.AddButton.cshtml"
+msgid "Add to cart"
+msgstr "添加到购物车"
+
+#: ~/Modules/Nwazet.Commerce/Views/Parts/Product.cshtml
+#| msgid "Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/Parts/Product.cshtml"
+msgid "Price"
+msgstr "价格"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Manage Products"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Manage Products"
+msgstr "管理产品"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Create New Product"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Create New Product"
+msgstr "创建新的产品"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Actions:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Actions:"
+msgstr "操作："
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Choose action..."
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Choose action..."
+msgstr "选择操作..."
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Publish Now"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Publish Now"
+msgstr "现在发布"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Unpublish"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Unpublish"
+msgstr "取消发布"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Apply"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Apply"
+msgstr "应用"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Ordered by"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Ordered by"
+msgstr "排列方式"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "recently created"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "recently created"
+msgstr "最近创建的"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "recently modified"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "recently modified"
+msgstr "最近编辑过的"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "recently published"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "recently published"
+msgstr "最近发布的"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml
+#| msgid "Manage Shipping Methods"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml"
+msgid "Manage Shipping Methods"
+msgstr "管理物流方法"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml
+#| msgid "Add a new {0}"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml"
+msgid "Add a new {0}"
+msgstr "添加新的 {0}"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml"
+msgid "Name"
+msgstr "名称"
+
